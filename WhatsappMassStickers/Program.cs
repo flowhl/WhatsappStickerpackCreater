@@ -16,8 +16,8 @@ namespace WhatsappMassStickers
 
         public static string RootDir = "C:/Users/Florian Wahl/Desktop/WhatsappStickers";
         public static string ImportDir = "C:/Users/Florian Wahl/Desktop/WhatsappStickers/WhatsApp Stickers";
-        public static string Title = "Bubu & Dudu";
-        public static string Author = "Vani & Flo";
+        public static string Title = "Your Title";
+        public static string Author = "You";
 
         static void Main(string[] args)
         {
