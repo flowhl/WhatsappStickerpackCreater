@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatsappMassStickers", "WhatsappMassStickers\WhatsappMassStickers.csproj", "{BFCBF744-4112-45FE-B971-13526DAA4C76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFCBF744-4112-45FE-B971-13526DAA4C76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFCBF744-4112-45FE-B971-13526DAA4C76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFCBF744-4112-45FE-B971-13526DAA4C76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFCBF744-4112-45FE-B971-13526DAA4C76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CF41464-7463-48CF-B352-4D9CA5A87D62}
+	EndGlobalSection
+EndGlobal
